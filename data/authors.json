@@ -1,13 +1,20 @@
 {
-    "last_update": "2026-02-23T07:44:59+00:00",
-    "total_authors": 1,
+    "last_update": "2026-02-23T07:48:25+00:00",
+    "total_authors": 2,
     "authors": {
         "2840522462": {
             "qq": "2840522462",
             "nickname": "山海大玩家",
-            "contribution_count": 94,
+            "contribution_count": 88,
             "last_active": "2025-07-27T14:57:39+00:00",
             "avatar": "https://q.qlogo.cn/g?b=qq&nk=2840522462&s=100"
+        },
+        "1739011438": {
+            "qq": "1739011438",
+            "nickname": "新生",
+            "contribution_count": 6,
+            "last_active": "2026-02-23T07:40:40+00:00",
+            "avatar": "https://q.qlogo.cn/g?b=qq&nk=1739011438&s=100"
         }
     }
 }
