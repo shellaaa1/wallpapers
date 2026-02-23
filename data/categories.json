@@ -13,7 +13,7 @@
             "name": "宠物",
             "icon": "cat",
             "description": "可爱萌宠、动物世界",
-            "count": 8,
+            "count": 12,
             "sort_order": 2
         },
         "landscape": {
@@ -21,7 +21,7 @@
             "name": "风景",
             "icon": "mountain",
             "description": "自然风光、城市景观",
-            "count": 0,
+            "count": 1,
             "sort_order": 3
         },
         "erciyuan": {
@@ -29,7 +29,7 @@
             "name": "二次元",
             "icon": "tv",
             "description": "动漫、插画、二次元",
-            "count": 0,
+            "count": 1,
             "sort_order": 4
         }
     }
