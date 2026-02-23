@@ -1,60 +1,15 @@
 {
-  "total_authors": 11,
+  "total_authors": 2,
   "authors": [
     {
       "qq": "2840522462",
       "nickname": "山海大玩家",
-      "count": 80
-    },
-    {
-      "qq": "Q132曹长卿投稿",
-      "nickname": "Q132曹长卿投稿",
-      "count": 2
-    },
-    {
-      "qq": "兔爰爰",
-      "nickname": "兔爰爰",
-      "count": 1
-    },
-    {
-      "qq": "小阿鼓01",
-      "nickname": "小阿鼓01",
-      "count": 1
+      "count": 90
     },
     {
       "qq": "1739011438",
       "nickname": "新生",
       "count": 6
-    },
-    {
-      "qq": "小阿鼓05",
-      "nickname": "小阿鼓05",
-      "count": 1
-    },
-    {
-      "qq": "小阿鼓06",
-      "nickname": "小阿鼓06",
-      "count": 1
-    },
-    {
-      "qq": "小阿鼓04",
-      "nickname": "小阿鼓04",
-      "count": 1
-    },
-    {
-      "qq": "小阿鼓03",
-      "nickname": "小阿鼓03",
-      "count": 1
-    },
-    {
-      "qq": "小阿鼓02",
-      "nickname": "小阿鼓02",
-      "count": 1
-    },
-    {
-      "qq": "兔爰爰和小阿鼓",
-      "nickname": "兔爰爰和小阿鼓",
-      "count": 1
     }
   ]
 }
