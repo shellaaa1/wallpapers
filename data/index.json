@@ -1,0 +1,85 @@
+{
+    "version": "1.0.0",
+    "last_update": "2026-02-23T00:07:46+00:00",
+    "total": 80,
+    "pages": 2,
+    "categories": [
+        {
+            "id": "fashion",
+            "name": "时装",
+            "icon": "shirt",
+            "count": 80
+        },
+        {
+            "id": "pet",
+            "name": "宠物",
+            "icon": "cat",
+            "count": 0
+        },
+        {
+            "id": "landscape",
+            "name": "风景",
+            "icon": "mountain",
+            "count": 0
+        },
+        {
+            "id": "erciyuan",
+            "name": "二次元",
+            "icon": "tv",
+            "count": 0
+        }
+    ],
+    "recent_additions": [
+        {
+            "id": "wl_f0154449",
+            "page": 1,
+            "added_at": "2025-12-27T16:13:24+00:00"
+        },
+        {
+            "id": "wl_89f78332",
+            "page": 1,
+            "added_at": "2025-12-27T16:12:54+00:00"
+        },
+        {
+            "id": "wl_51dfe5c3",
+            "page": 1,
+            "added_at": "2025-12-27T16:11:43+00:00"
+        },
+        {
+            "id": "wl_0be5f082",
+            "page": 1,
+            "added_at": "2025-12-27T16:10:42+00:00"
+        },
+        {
+            "id": "wl_919f00b2",
+            "page": 1,
+            "added_at": "2025-12-27T16:10:08+00:00"
+        },
+        {
+            "id": "wl_33be7e63",
+            "page": 1,
+            "added_at": "2025-12-27T16:08:37+00:00"
+        },
+        {
+            "id": "wl_6c6381a8",
+            "page": 1,
+            "added_at": "2025-11-27T19:07:28+00:00"
+        },
+        {
+            "id": "wl_add5b9c5",
+            "page": 1,
+            "added_at": "2025-11-27T19:06:52+00:00"
+        },
+        {
+            "id": "wl_c1cbd0e2",
+            "page": 1,
+            "added_at": "2025-11-27T17:20:29+00:00"
+        },
+        {
+            "id": "wl_6ba18039",
+            "page": 1,
+            "added_at": "2025-11-27T17:20:14+00:00"
+        }
+    ],
+    "cdn_base": "https://gcore.jsdelivr.net/gh/shellaaa1/wallpapers@main"
+}

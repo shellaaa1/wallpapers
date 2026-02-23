@@ -1,0 +1,36 @@
+{
+    "categories": {
+        "fashion": {
+            "id": "fashion",
+            "name": "时装",
+            "icon": "shirt",
+            "description": "时尚穿搭、潮流服饰",
+            "count": 80,
+            "sort_order": 1
+        },
+        "pet": {
+            "id": "pet",
+            "name": "宠物",
+            "icon": "cat",
+            "description": "可爱萌宠、动物世界",
+            "count": 0,
+            "sort_order": 2
+        },
+        "landscape": {
+            "id": "landscape",
+            "name": "风景",
+            "icon": "mountain",
+            "description": "自然风光、城市景观",
+            "count": 0,
+            "sort_order": 3
+        },
+        "erciyuan": {
+            "id": "erciyuan",
+            "name": "二次元",
+            "icon": "tv",
+            "description": "动漫、插画、二次元",
+            "count": 0,
+            "sort_order": 4
+        }
+    }
+}
