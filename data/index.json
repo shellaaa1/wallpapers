@@ -1,85 +1,32 @@
 {
-    "version": "1.0.0",
-    "last_update": "2026-02-23T08:05:18+00:00",
-    "total": 94,
-    "pages": 2,
-    "categories": [
-        {
-            "id": "fashion",
-            "name": "时装",
-            "icon": "shirt",
-            "count": 80
-        },
-        {
-            "id": "pet",
-            "name": "宠物",
-            "icon": "cat",
-            "count": 12
-        },
-        {
-            "id": "landscape",
-            "name": "风景",
-            "icon": "mountain",
-            "count": 1
-        },
-        {
-            "id": "erciyuan",
-            "name": "二次元",
-            "icon": "tv",
-            "count": 1
-        }
-    ],
-    "recent_additions": [
-        {
-            "id": "wl_0e196143",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:40+00:00"
-        },
-        {
-            "id": "wl_f892cd4b",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:40+00:00"
-        },
-        {
-            "id": "wl_53cdb485",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:40+00:00"
-        },
-        {
-            "id": "wl_078ad2bc",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:39+00:00"
-        },
-        {
-            "id": "wl_2dc2e627",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:39+00:00"
-        },
-        {
-            "id": "wl_816b491c",
-            "page": 1,
-            "added_at": "2026-02-23T07:40:39+00:00"
-        },
-        {
-            "id": "wl_f3ad4fa1",
-            "page": 1,
-            "added_at": "2026-02-21T17:58:31+00:00"
-        },
-        {
-            "id": "wl_5837f7b7",
-            "page": 1,
-            "added_at": "2026-02-21T17:48:10+00:00"
-        },
-        {
-            "id": "wl_d7c09712",
-            "page": 1,
-            "added_at": "2026-02-21T17:47:59+00:00"
-        },
-        {
-            "id": "wl_bff260c9",
-            "page": 1,
-            "added_at": "2026-02-21T17:47:51+00:00"
-        }
-    ],
-    "cdn_base": "https://gcore.jsdelivr.net/gh/shellaaa1/wallpapers@main"
+  "version": "1.0",
+  "total": 96,
+  "updated_at": "2026-02-23T17:55:50.164361",
+  "categories": [
+    {
+      "id": "fashion",
+      "name": "时装",
+      "icon": "shirt",
+      "count": 82
+    },
+    {
+      "id": "pet",
+      "name": "宠物",
+      "icon": "cat",
+      "count": 12
+    },
+    {
+      "id": "landscape",
+      "name": "风景",
+      "icon": "mountain",
+      "count": 1
+    },
+    {
+      "id": "erciyuan",
+      "name": "二次元",
+      "icon": "sparkles",
+      "count": 1
+    }
+  ],
+  "pages": 2
 }
