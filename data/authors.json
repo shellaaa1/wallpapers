@@ -1,69 +1,13 @@
 {
-    "last_update": "2026-02-23T04:56:51+00:00",
-    "total_authors": 9,
+    "last_update": "2026-02-23T05:00:33+00:00",
+    "total_authors": 1,
     "authors": {
         "2840522462": {
             "qq": "2840522462",
             "nickname": "山海大玩家",
-            "contribution_count": 80,
+            "contribution_count": 88,
             "last_active": "2025-07-27T14:57:39+00:00",
             "avatar": "https://q.qlogo.cn/g?b=qq&nk=2840522462&s=100"
-        },
-        "anonymous": {
-            "qq": "anonymous",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-13T20:51:37+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=anonymous&s=100"
-        },
-        "260223": {
-            "qq": "260223",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-17T08:50:54+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=260223&s=100"
-        },
-        "26022301": {
-            "qq": "26022301",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T17:58:31+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022301&s=100"
-        },
-        "26022302": {
-            "qq": "26022302",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T17:48:10+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022302&s=100"
-        },
-        "26022303": {
-            "qq": "26022303",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T17:47:59+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022303&s=100"
-        },
-        "26022304": {
-            "qq": "26022304",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T17:47:51+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022304&s=100"
-        },
-        "26022305": {
-            "qq": "26022305",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T17:47:42+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022305&s=100"
-        },
-        "26022306": {
-            "qq": "26022306",
-            "nickname": "",
-            "contribution_count": 1,
-            "last_active": "2026-02-21T01:48:55+00:00",
-            "avatar": "https://q.qlogo.cn/g?b=qq&nk=26022306&s=100"
         }
     }
 }
