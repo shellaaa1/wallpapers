@@ -1,0 +1,60 @@
+{
+  "page": 3,
+  "total_pages": 3,
+  "wallpapers": [
+    {
+      "id": "fashion_25053_2840522462_山海大玩家.jpg",
+      "filename": "25053_2840522462_山海大玩家.jpg",
+      "title": "25053",
+      "category": "fashion",
+      "author": {
+        "qq": "2840522462",
+        "nickname": "山海大玩家"
+      },
+      "cdn": {
+        "original": "/fashion/25053_2840522462_山海大玩家.jpg"
+      },
+      "upload_time": "2025-07-26T17:41:44.109000",
+      "resolution": {
+        "width": 2016,
+        "height": 3840
+      }
+    },
+    {
+      "id": "fashion_25052_2840522462_山海大玩家.jpg",
+      "filename": "25052_2840522462_山海大玩家.jpg",
+      "title": "25052",
+      "category": "fashion",
+      "author": {
+        "qq": "2840522462",
+        "nickname": "山海大玩家"
+      },
+      "cdn": {
+        "original": "/fashion/25052_2840522462_山海大玩家.jpg"
+      },
+      "upload_time": "2025-07-26T17:41:43.717000",
+      "resolution": {
+        "width": 2144,
+        "height": 3840
+      }
+    },
+    {
+      "id": "fashion_25051_2840522462_山海大玩家.jpg",
+      "filename": "25051_2840522462_山海大玩家.jpg",
+      "title": "25051",
+      "category": "fashion",
+      "author": {
+        "qq": "2840522462",
+        "nickname": "山海大玩家"
+      },
+      "cdn": {
+        "original": "/fashion/25051_2840522462_山海大玩家.jpg"
+      },
+      "upload_time": "2025-07-26T17:41:43.285000",
+      "resolution": {
+        "width": 2144,
+        "height": 3840
+      }
+    }
+  ]
+}
